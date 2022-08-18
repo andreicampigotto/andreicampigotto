@@ -23,12 +23,12 @@
 Here are some ideas to get you started:
 -->
 ##
-- 🌍  I'm based in Blumenau -SC
-- 🌱  I’m currently learning philosophy
-- 💬  Ask me about Anythinks
-- 📫  How to reach me andreicampigotto@icloud.com
-- 🧠  I'm learning new technologies
-- 🤝  I'm open to collaborating on any kotlin project
+- 🌍 I'm based in Blumenau -SC
+- 🌱 I’m currently learning philosophy
+- 💬 Ask me about Anythinks
+- 📫 How to reach me andreicampigotto@icloud.com
+- 🧠 I'm learning new technologies
+- 🤝 I'm open to collaborating on any kotlin project
 
 ##
 ### Stats:
