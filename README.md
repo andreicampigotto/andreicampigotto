@@ -3,6 +3,8 @@
 
 
 ## Hi there 👋
+### You can find me here:
+<a href="https://www.linkedin.com/in/andrei-campigotto-45168255/"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
 
 <!--
 **andreicampigotto/andreicampigotto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,6 +22,5 @@ Here are some ideas to get you started:
 -->
 ### Languages:
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoleonds&layout=compact&theme=dark&hide=Objective-C,PureBasic&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreicampigotto&layout=compact&theme=dark&hide=Objective-C,PureBasic&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
  
-<a href="https://www.linkedin.com/in/andrei-campigotto-45168255/"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
