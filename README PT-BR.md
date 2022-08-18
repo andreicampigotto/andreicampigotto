@@ -1,5 +1,5 @@
 ### Idiomas
-- [English](https://github.com/andreicampigotto/andreicampigotto/edit/main/README.md) - [Português](https://github.com/andreicampigotto/andreicampigotto/blob/main/README%20PT-BR.md)
+-[English](https://github.com/andreicampigotto/andreicampigotto/edit/main/README.md) -[Português](https://github.com/andreicampigotto/andreicampigotto/blob/main/README%20PT-BR.md)
 
 
 ## Hi there 👋
