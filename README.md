@@ -1,8 +1,7 @@
-### Hi there 👋
-
-
 ## Languages
 - [English](https://github.com/andreicampigotto/andreicampigotto/edit/main/README.md) - [Português](https://github.com/andreicampigotto/andreicampigotto/blob/main/README%20PT-BR.md)
+
+### Hi there 👋
 
 <!--
 **andreicampigotto/andreicampigotto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
