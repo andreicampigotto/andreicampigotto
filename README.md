@@ -10,9 +10,9 @@
 
 ### Would you like find me here:
 <p align="left">  
-<a href="https://www.linkedin.com/in/andrei-campigotto-45168255target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrei campigotto" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/user:19745358" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:19745358" height="30" width="40" /></a>
-<a href="https://discord.gg/Andrei#0806" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Andrei#0806" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/andrei-campigotto-45168255target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrei campigotto" height="30" width="40" />
+<a href="https://stackoverflow.com/users/user:19745358" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:19745358" height="30" width="40" />
+<a href="https://discord.gg/Andrei#0806" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Andrei#0806" height="30" width="40" />
 </p>
 
 <!--
