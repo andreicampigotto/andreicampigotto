@@ -13,7 +13,7 @@
 ### Would you like find me here:
 <p align="left">
 <a href="https://www.linkedin.com/in/andrei-campigotto-45168255/"><img alt="LinkedIn" title="LinkedIn" height="36" width="36" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
-<a href="https://www.linkedin.com/in/andrei-campigotto-45168255/"><img alt="Discord" title="Discord" height="36" width="36" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /></a>
+<a href="https://https://discord.gg/WrAPAkV8/"><img alt="Discord" title="Discord" height="36" width="36" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /></a>
 </p>
 
 <!--
