@@ -41,5 +41,6 @@ Here are some ideas to get you started:
 
 ##
 ### Stats:
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreicampigotto&layout=compact&&title_color=358e08&text_color=f3f6f4&icon_color=358e08&bg_color=1e1b1b&hide_border=true&hide=JavaScript)](https://github.com/andreicampigotto/github-readme-stats)
 ![Andrei's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreicampigotto&show_icons=true&title_color=358e08&text_color=f3f6f4&icon_color=358e08&bg_color=1e1b1b&hide_border=true&hide=issues)
