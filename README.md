@@ -1,6 +1,3 @@
-### Language
-- [English](https://github.com/andreicampigotto/andreicampigotto/edit/main/README.md)
-
 # Hi there 👋,  I`m Andrei -- Developer
 
 ### Languages and Tools
