@@ -1,7 +1,5 @@
 ### Language
-- [English](https://github.com/andreicampigotto/andreicampigotto/edit/main/README.md) 
-- [Português](https://github.com/andreicampigotto/andreicampigotto/blob/main/README%20PT-BR.md)
-
+- [English](https://github.com/andreicampigotto/andreicampigotto/edit/main/README.md)
 
 # Hi there 👋,  I`m Andrei -- Developer
 
@@ -39,7 +37,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Anythinks
 - 📫 How to reach me andreicampigotto@icloud.com
 - 🧠 I'm learning new technologies
-- 🤝 I'm open to collaborating on any kotlin project
+- 🤝 I'm open to collaborating on any project
 
 <details>
   <summary>:zap: GitHub Stats</summary>
