@@ -1,4 +1,5 @@
-# Hi there 👋,  I`m Andrei -- Developer
+# Hi there 👋,  
+  I`m Andrei, I'm a System developer
 
 ### Languages and Tools
 <p align="left"> 
