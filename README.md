@@ -2,10 +2,10 @@
 
 ### Would you like find me here:
 <p align="left">  
-<a href="https://www.linkedin.com/in/andrei-campigotto/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrei campigotto" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19745358/andrei-campigotto?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:19745358" height="30" width="40" /></a>
-<a href="https://discord.gg/Andrei#0806" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Andrei#0806" height="30" width="40" /></a>
-</p>
+<a href="https://www.linkedin.com/in/andrei-campigotto/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrei campigotto" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19745358/andrei-campigotto?tab=profile" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:19745358" height="30" width="40" /></a>
 
 ### Languages and Tools
 <p align="left"> 
