@@ -36,8 +36,7 @@ Here are some ideas to get you started:
 -->
 ##
 - 🌍 I live in Canada
-- 🌱 I’m currently learning... 
-- 💬 Ask me about Anythinks
+- 🌱 I’m aways learning...
 
 <details>
   <summary>:zap: GitHub Stats</summary>
