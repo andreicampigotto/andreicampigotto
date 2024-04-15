@@ -1,6 +1,6 @@
 # Hi there 👋,  I`m Andrei, I'm a System developer
 
-## Would you like find me here:
+### Would you like find me here:
 [<img align="left" alt="andrei | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 ### Languages and Tools
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 -->
 
 
-##
+###
 - 🌍 I live in Canada
 - 🌱 I’m aways learning
 
