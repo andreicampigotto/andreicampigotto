@@ -8,10 +8,9 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:19745358" height="30" width="40" /></a>
 
 ### Languages and Tools
-<p align="left"> 
-<a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
-  [<img align="left" alt="AndroidStudio" width="26px" src="https://img.icons8.com/color/48/000000/android-studio--v3.png" />][android]
+
+[<img align="left" alt="Kotlin" width="26px" src="https://img.icons8.com/color/48/000000/kotlin.png" />][kotlin]
+[<img align="left" alt="AndroidStudio" width="26px" src="https://img.icons8.com/color/48/000000/android-studio--v3.png" />][android]
 <a href="https://dart.dev" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -26,8 +25,9 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/></a>
-</p>
 
+
+<br />
 <!--
 **andreicampigotto/andreicampigotto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
