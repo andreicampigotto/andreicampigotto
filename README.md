@@ -52,3 +52,16 @@ Here are some ideas to get you started:
 ![Andrei's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreicampigotto&show_icons=true&title_color=358e08&text_color=f3f6f4&icon_color=358e08&bg_color=1e1b1b&hide_border=true&hide=issues)
 
 
+[profile]: https://github.com/andreicampigotto/
+[linkedin]: https://www.linkedin.com/in/andrei-campigotto/
+[visualstudiocode]: https://code.visualstudio.com
+[jssite]: https://www.w3schools.com/js/DEFAULT.asp
+[python]: https://www.python.org
+[mysql]: https://www.mysql.com
+[git]: https://git-scm.com
+[github]: https://github.com/andreicampigotto
+[terminal]: https://www.techrepublic.com/article/16-terminal-commands-every-user-should-know/
+[kotlin]: https://kotlinlang.org
+[android]: https://developer.android.com
+[postman]: https://www.postman.com
+[java]: https://www.oracle.com/java/technologies/downloads/
