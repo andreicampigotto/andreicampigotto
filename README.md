@@ -1,10 +1,10 @@
 # Hi there 👋,  I`m Andrei, I'm a System developer
 
-###Would you like find me here:
+### Would you like find me here:
 [<img align="left" alt="andrei | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 
-### Languages and Tools
+### Languages and Tools?
 [<img align="left" alt="Kotlin" width="26px" src="https://img.icons8.com/color/48/000000/kotlin.png" />][kotlin]
 [<img align="left" alt="AndroidStudio" width="26px" src="https://img.icons8.com/color/48/000000/android-studio--v3.png" />][android]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][visualstudiocode]
