@@ -1,4 +1,4 @@
-# Hi there 👋,  I`m Andrei, I'm a System developer
+# Hi there 👋,  I`m Andrei.
 
 ### Would you like find me here:
 [<img align="left" alt="andrei | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
