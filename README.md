@@ -8,8 +8,8 @@
 ### Languages and Tools?
 [<img align="left" alt="Kotlin" width="32px" src="https://img.icons8.com/color/48/000000/kotlin.png" />][kotlin]
 [<img align="left" alt="AndroidStudio" width="32px" src="https://img.icons8.com/color/48/000000/android-studio--v3.png" />][android]
-[<img align="left" alt="Flutter" width="32px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />]
-[<img align="left" alt="Firebase" width="32px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />]
+[<img align="left" alt="Flutter" width="32px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />][Flutter]
+[<img align="left" alt="Firebase" width="32px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />][Firebase]
 [<img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][visualstudiocode]
 [<img align="left" alt="Java" width="32px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" />][java]
 [<img align="left" alt="MySQL" width="32px" src="https://img.icons8.com/ios/50/000000/mysql.png" />][mysql]
@@ -70,3 +70,6 @@ Here are some ideas to get you started:
 [android]: https://developer.android.com
 [postman]: https://www.postman.com
 [java]: https://www.oracle.com/java/technologies/downloads/
+[flutter]: https://flutter.dev
+[firebase]: https://firebase.google.com
+
